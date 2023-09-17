@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Minesweeper game",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceloavila11/React.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "Marcelo Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marceloavila11/React/issues"
+  },
+  "homepage": "https://github.com/marceloavila11/React#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
